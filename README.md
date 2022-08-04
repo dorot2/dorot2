@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning JS, JAVA.
 - 💬 Ask me about
-- 📫 How to reach me: viwon1231@nave.com
+- 📫 How to reach me : viwon1231@naver.com
 
 <!--
 - 🔭 I’m currently working on ...
