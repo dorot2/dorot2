@@ -20,6 +20,8 @@
 <!-- //aws
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorot2&show_icons=true&theme=dracula)
+
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
