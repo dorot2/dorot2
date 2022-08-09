@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Dorothy's%20GitHub%20Profile&fontSize=50&color=gradient&height=250&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Dorothy's%20GitHub%20Profile&fontSize=50&color=gradient&height=150&animation=twinkling)
 
 
 - 🌱 I’m currently learning JS, JAVA.
@@ -20,7 +18,6 @@
 <!-- //aws
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dorot2)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--//깃허브 스탯-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorot2&show_icons=true&theme=ayu-mirage)
