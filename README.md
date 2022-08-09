@@ -20,7 +20,11 @@
 <!-- //aws
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorot2&show_icons=true&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dorot2)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--//깃허브 스탯-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorot2&show_icons=true&theme=ayu-mirage)
+
 
 <!--
 - 🔭 I’m currently working on ...
@@ -30,6 +34,9 @@
 - ⚡ Fun fact: ...
 -->
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorot2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
   
 </div>
