@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Dorothy's%20GitHub%20Profile&fontSize=50&color=gradient&height=150&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Dorothy's%20GitHub%20Profile&fontSize=50&color=gradient&height=200&animation=twinkling)
 
 
 - 🌱 I’m currently learning JS, JAVA.
