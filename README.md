@@ -4,7 +4,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdorot2&count_bg=%23FF9494&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dorot2)
 #
 
-
+<h3>Hi there ✌ </h3>
+  <li>I'm a Backend Developer</li>
+  <li>I'm looking for a job in South Korea</li>
+  <hr>
+<h3>How to reach me? 💻 </h3>
+  <li>Dorothy's email : dorot2yang@gmail.com </li>
+  <li>Dorothy's blog : https://dorothy-yang.tistory.com/ </li>
+  <hr>
 💻 Back-end Stack 💻<br><br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
