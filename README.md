@@ -12,25 +12,25 @@
   <li>Dorothy's email : dorot2yang@gmail.com </li>
   <li>Dorothy's blog : https://dorothy-yang.tistory.com/ </li>
   <hr>
-💻 Back-end Stack 💻<br><br>
+💻 Back-end Stack 💻<br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> -->
-<br>
+<br><br>
 
-💻 Cowork tools 💻<br><br>
+💻 Cowork tools 💻<br>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 #
 
 
-<!--//깃허브 스탯-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorot2&&show_icons=true&theme=dracula)
-  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorot2&&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--//깃허브 스탯
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorot2&show_icons=true&theme=dracula)<br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorot2&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorot2&layout=compact&theme=dracula) -->
+  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,50,100&height=140&section=footer)
 
 </div>
