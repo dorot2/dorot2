@@ -24,12 +24,8 @@
 💻 Cowork tools 💻<br>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 #
-
-
-<!--//깃허브 스탯
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorot2&show_icons=true&theme=dracula)<br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorot2&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorot2&layout=compact&theme=dracula) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorot2&layout=compact&theme=dracula)
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,50,100&height=140&section=footer)
 
